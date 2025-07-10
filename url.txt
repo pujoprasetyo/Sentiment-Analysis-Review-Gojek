@@ -1,0 +1,5 @@
+Deployment :
+https://huggingface.co/spaces/prasetyoaji/Sentiment_Analysis_Gojek
+
+Dataset:
+https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia

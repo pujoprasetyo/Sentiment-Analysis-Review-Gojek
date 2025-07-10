@@ -1,0 +1,11 @@
+altair
+pandas
+numpy
+streamlit==1.44.0
+seaborn
+plotly
+matplotlib
+pillow
+wordcloud
+tensorflow=2.15.0
+tensorflow_hub
