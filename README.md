@@ -30,7 +30,7 @@ Hasil dari project yang dibuat antara lain :
 4. Insight mengenai potensi bisnis yang dapat dilakukan.
 
 ## IV. Data
-Dataset diambil dari kaggle dengan judul 'gojek app reviews bahasa indonesia'. Dataset berisi review user terhadap aplikasi gojek yang diambil dari google-play dari tahun 2021 hingga 2024.
+Dataset diambil dari kaggle dengan judul 'gojek app reviews bahasa indonesia'. Dataset berisi review user terhadap aplikasi gojek yang diambil dari aplikasi Google Play dari tahun 2021 hingga 2024.
 Dataset terdiri dari 5 kolom dan 200.000+ baris data.
 
 ## V. Method
