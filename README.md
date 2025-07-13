@@ -39,15 +39,16 @@ Metrics evaluasi yang digunakan antara lain histogram untuk melihat performa mod
 
 ## VI. Stacks
 Proses pengolahan data dilakukan menggunakan aplikasi VSCode dengan bahasa pemrograman Python Terdapat beberapa library yang digunakan untuk mempermudah proses analisis data, yaitu:
-1. Pandas -> Memproses dataset
-2. Scipy -> Melakukan perhitungan statistik
-3. Seaborn -> Menggambarkan visualisasi data
-4. Tensorflow -> Library machine learning
-5. Scikit-Learn -> Data pre-processing
-5. Word2Vec -> Library untuk word embedding
-6. Sastrawi -> Library stopword bahas indonesia
-7. Wordcloud -> Menampilkan kata-kata
-8. HuggingFace -> Deployment model 
+| No. | Library | Fungsi |
+|1. | Pandas | Memproses dataset |
+|2. | Scipy | Melakukan perhitungan statistik |
+|3. | Seaborn | Menggambarkan visualisasi data |
+|4. | Tensorflow | Library machine learning |
+|5. | Scikit-Learn | Data pre-processing |
+|5. | Word2Vec | Library untuk word embedding |
+|6. | Sastrawi | Library stopword bahas indonesia |
+|7. | Wordcloud | Menampilkan kata-kata |
+|8. | HuggingFace | Deployment model |
 
 ## VII. Reference
 
