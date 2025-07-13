@@ -40,6 +40,7 @@ Metrics evaluasi yang digunakan antara lain histogram untuk melihat performa mod
 ## VI. Stacks
 Proses pengolahan data dilakukan menggunakan aplikasi VSCode dengan bahasa pemrograman Python Terdapat beberapa library yang digunakan untuk mempermudah proses analisis data, yaitu:
 | No. | Library | Fungsi |
+| --- | --- | ---|
 |1. | Pandas | Memproses dataset |
 |2. | Scipy | Melakukan perhitungan statistik |
 |3. | Seaborn | Menggambarkan visualisasi data |
